@@ -1,0 +1,28 @@
+.tr {
+  text-align: right;
+}
+
+.mr-2 {
+  margin-left: 20px;
+  margin-right: 2px;
+}
+
+.mr-2:hover {
+  text-decoration: underline;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
+
+.subscribe-icon {
+  height: 1em;
+  vertical-align: middle;
+  margin-left: 0.3em;
+}
+
+.bag-icon {
+  min-width: 40px;
+  font-size: 16px;
+  line-height: 20px;
+}
